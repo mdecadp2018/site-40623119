@@ -71,8 +71,11 @@
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
 </v>
-<v t="leo.20181025231056.1" a="E"><vh>2018/10/18</vh>
+<v t="leo.20181025231056.1"><vh>2018/10/18</vh>
 <v t="leo.20181025231056.2"><vh>@edit 20181018.md</vh></v>
+</v>
+<v t="leo.20181025232521.1" a="E"><vh>2018/10/19</vh>
+<v t="leo.20181025232521.2"><vh>@edit 20181019.md</vh></v>
 </v>
 </v>
 </v>
@@ -107,6 +110,7 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115142025.1"></t>
 <t tx="leo.20180423103639.1"></t>
 <t tx="leo.20181025231056.1"></t>
+<t tx="leo.20181025232521.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
