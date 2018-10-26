@@ -3,7 +3,9 @@
 
 http://mdecourse.github.io/2018fall/
 
-倉儲: https://mdecadp2018.github.io/site-40623119
+倉儲：https://github.com/mdecadp2018/site-40623119
+
+網站: https://mdecadp2018.github.io/site-40623119
 
 投影片: https://github.com/scrum-1/scrum-1.github.io/wiki
 
