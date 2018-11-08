@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623119網誌</title><link href="https://mdecadp2018.github.io/site-40623119/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623119/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623119/blog/</id><updated>2018-11-01T11:00:00+08:00</updated><entry><title>2018 Week - 8</title><link href="https://mdecadp2018.github.io/site-40623119/blog/40623119-G.html" rel="alternate"></link><published>2018-11-01T11:00:00+08:00</published><updated>2018-11-01T11:00:00+08:00</updated><author><name>40623119</name></author><id>tag:mdecadp2018.github.io,2018-11-01:/site-40623119/blog/40623119-G.html</id><summary type="html">&lt;p&gt;Onshape Homework&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Onshape Homework&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 40623119網誌</title><link href="https://mdecadp2018.github.io/site-40623119/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623119/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623119/blog/</id><updated>2018-11-01T11:00:00+08:00</updated><entry><title>2018 Week - 8</title><link href="https://mdecadp2018.github.io/site-40623119/blog/40623119-G.html" rel="alternate"></link><published>2018-11-01T11:00:00+08:00</published><updated>2018-11-01T11:00:00+08:00</updated><author><name>40623119</name></author><id>tag:mdecadp2018.github.io,2018-11-01:/site-40623119/blog/40623119-G.html</id><summary type="html">&lt;p&gt;第八週心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第八週心得&lt;/p&gt;
 
 
 &lt;h2&gt;第八週心得&lt;/h2&gt;
-&lt;p&gt;這週尋找自己的組員，一起同心協力完成期末的專題，讓我們彼此組員能夠互相交流知識，使我們把期末專題做到最好。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Week - 7</title><link href="https://mdecadp2018.github.io/site-40623119/blog/40623119-F.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>40623119</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623119/blog/40623119-F.html</id><summary type="html">&lt;p&gt;Onshape Homework&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Onshape Homework&lt;/p&gt;
+&lt;p&gt;這週尋找自己的組員，一起同心協力完成期末的專題，讓我們彼此組員能夠互相交流知識，使我們把期末專題做到最好。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Week - 7</title><link href="https://mdecadp2018.github.io/site-40623119/blog/40623119-F.html" rel="alternate"></link><published>2018-10-26T11:00:00+08:00</published><updated>2018-10-26T11:00:00+08:00</updated><author><name>40623119</name></author><id>tag:mdecadp2018.github.io,2018-10-26:/site-40623119/blog/40623119-F.html</id><summary type="html">&lt;p&gt;第七週心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第七週心得&lt;/p&gt;
 
 
 &lt;h2&gt;第七週心得&lt;/h2&gt;
@@ -18,8 +18,8 @@
 &lt;p&gt;IPV6:&lt;/p&gt;
 &lt;p&gt;2001:288:6004:17::3   系上&lt;/p&gt;
 &lt;p&gt;2001:288:6004:1::2      學校&lt;/p&gt;
-&lt;p&gt;2001:b000:168::1           hinet&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Week - 6</title><link href="https://mdecadp2018.github.io/site-40623119/blog/40623119-E.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40623119</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623119/blog/40623119-E.html</id><summary type="html">&lt;p&gt;Onshape Homework&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Onshape Homework&lt;/p&gt;
+&lt;p&gt;2001:b000:168::1           hinet&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Week - 6</title><link href="https://mdecadp2018.github.io/site-40623119/blog/40623119-E.html" rel="alternate"></link><published>2018-10-19T11:00:00+08:00</published><updated>2018-10-19T11:00:00+08:00</updated><author><name>40623119</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40623119/blog/40623119-E.html</id><summary type="html">&lt;p&gt;第六週心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第六週心得&lt;/p&gt;
 
 
 &lt;h2&gt;第六週心得&lt;/h2&gt;
@@ -27,13 +27,13 @@
 &lt;p&gt;git reflog&lt;/p&gt;
 &lt;p&gt;git reset --hard ______ ---- commit id (前7碼)&lt;/p&gt;
 &lt;p&gt;git push -f   ---- 強制回退&lt;/p&gt;
-&lt;p&gt;這樣就可以回推想要的版本，重新再製作一次自己想要的內容。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Week - 5</title><link href="https://mdecadp2018.github.io/site-40623119/blog/40623119-D.html" rel="alternate"></link><published>2018-10-11T11:00:00+08:00</published><updated>2018-10-11T11:00:00+08:00</updated><author><name>40623119</name></author><id>tag:mdecadp2018.github.io,2018-10-11:/site-40623119/blog/40623119-D.html</id><summary type="html">&lt;p&gt;Onshape Homework&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Onshape Homework&lt;/p&gt;
+&lt;p&gt;這樣就可以回推想要的版本，重新再製作一次自己想要的內容。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Week - 5</title><link href="https://mdecadp2018.github.io/site-40623119/blog/40623119-D.html" rel="alternate"></link><published>2018-10-11T11:00:00+08:00</published><updated>2018-10-11T11:00:00+08:00</updated><author><name>40623119</name></author><id>tag:mdecadp2018.github.io,2018-10-11:/site-40623119/blog/40623119-D.html</id><summary type="html">&lt;p&gt;Onshape&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Onshape&lt;/p&gt;
 
 
 &lt;h2&gt;第五週心得&lt;/h2&gt;
-&lt;p&gt;Onshape畫出更複雜的圖形，讓我們要思考該如何畫出草圖、材料長出、除料，還有其他的特徵畫法，更熟悉Onshape的操作技巧。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Week - 4</title><link href="https://mdecadp2018.github.io/site-40623119/blog/40623119-C.html" rel="alternate"></link><published>2018-10-04T11:00:00+08:00</published><updated>2018-10-04T11:00:00+08:00</updated><author><name>40623119</name></author><id>tag:mdecadp2018.github.io,2018-10-04:/site-40623119/blog/40623119-C.html</id><summary type="html">&lt;p&gt;Onshape Homework&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Onshape Homework&lt;/p&gt;
+&lt;p&gt;Onshape畫出更複雜的圖形，讓我們要思考該如何畫出草圖、材料長出、除料，還有其他的特徵畫法，更熟悉Onshape的操作技巧。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Week - 4</title><link href="https://mdecadp2018.github.io/site-40623119/blog/40623119-C.html" rel="alternate"></link><published>2018-10-04T11:00:00+08:00</published><updated>2018-10-04T11:00:00+08:00</updated><author><name>40623119</name></author><id>tag:mdecadp2018.github.io,2018-10-04:/site-40623119/blog/40623119-C.html</id><summary type="html">&lt;p&gt;第四週心得&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第四週心得&lt;/p&gt;
 
 
 &lt;h2&gt;第四週心得&lt;/h2&gt;
