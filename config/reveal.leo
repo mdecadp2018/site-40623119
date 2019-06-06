@@ -21,41 +21,83 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181005100502.1"><vh>W1</vh>
-<v t="leo.20181005100502.2"><vh>投影片內容</vh></v>
+<v t="leo.20181005100502.1"><vh>W11-12</vh>
+<v t="leo.20190607004602.1" a="E"><vh>內容</vh>
+<v t="leo.20190607004602.2"><vh>投影片內容</vh></v>
 </v>
-<v t="leo.20181108223323.1"><vh>W2</vh>
-<v t="leo.20181108223323.2"><vh>投影片內容</vh></v>
+<v t="leo.20190607003947.1" a="E"><vh>圖片</vh>
+<v t="leo.20190607003947.2"><vh>投影片內容</vh></v>
 </v>
-<v t="leo.20181108223412.1"><vh>W3</vh>
-<v t="leo.20181108223412.2"><vh>投影片內容</vh></v>
+<v t="leo.20190607003752.1" a="E"><vh>影片</vh>
+<v t="leo.20190607003752.2"><vh>投影片內容</vh></v>
 </v>
-<v t="leo.20181108223454.1"><vh>W4</vh>
-<v t="leo.20181108223454.2"><vh>投影片內容</vh></v>
 </v>
-<v t="leo.20181108223436.1"><vh>W5</vh>
-<v t="leo.20181108223436.2"><vh>投影片內容</vh></v>
+<v t="leo.20181108223323.1"><vh>W12-13</vh>
+<v t="leo.20190607005834.1" a="E"><vh>內容</vh>
+<v t="leo.20190607005834.2"><vh>投影片內容</vh></v>
 </v>
-<v t="leo.20181108223625.1" a="E"><vh>W6</vh>
-<v t="leo.20181108223625.2"><vh>投影片內容</vh></v>
+<v t="leo.20190607005744.1" a="E"><vh>圖片-1</vh>
+<v t="leo.20190607005744.2"><vh>投影片內容</vh></v>
 </v>
-<v t="leo.20181108223728.1" a="E"><vh>W7</vh>
-<v t="leo.20181108223728.2"><vh>投影片內容</vh></v>
+<v t="leo.20190607010738.1" a="E"><vh>圖片-2</vh>
+<v t="leo.20190607010738.2"><vh>投影片內容</vh></v>
 </v>
-<v t="leo.20181108224029.1" a="E"><vh>W8</vh>
-<v t="leo.20181108224029.2"><vh>投影片內容</vh></v>
+<v t="leo.20190607005750.1" a="E"><vh>影片</vh>
+<v t="leo.20190607005750.2"><vh>投影片內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108223412.1"><vh>W12-13 軌道</vh>
+<v t="leo.20190607011750.1"><vh>內容</vh>
+<v t="leo.20190607011750.2"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20190607011820.1" a="E"><vh>圖片-1</vh>
+<v t="leo.20190607011820.2"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20190607012020.1"><vh>圖片-2</vh>
+<v t="leo.20190607012020.2"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20190607012120.1"><vh>圖片-3</vh>
+<v t="leo.20190607012120.2"><vh>投影片內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108223454.1"><vh>W14-15</vh>
+<v t="leo.20190607012439.1" a="E"><vh>內容</vh>
+<v t="leo.20190607012439.2"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20190607012448.1" a="E"><vh>影片</vh>
+<v t="leo.20190607012448.2"><vh>投影片內容</vh></v>
+</v>
+</v>
+<v t="leo.20181108223436.1"><vh>W16</vh>
+<v t="leo.20190607012847.1" a="E"><vh>內容</vh>
+<v t="leo.20190607012847.2"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20190607013015.1" a="E"><vh>圖片</vh>
+<v t="leo.20190607013015.2"><vh>投影片內容</vh></v>
+</v>
+</v>
+<v t="leo.20190607013203.1" a="E"><vh>問題與解決</vh>
+<v t="leo.20190607013203.2"><vh>內容</vh>
+<v t="leo.20190607013203.3"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20190607013203.4"><vh>影片-1</vh>
+<v t="leo.20190607013203.5"><vh>投影片內容</vh></v>
+</v>
+<v t="leo.20190607013627.1" a="E"><vh>影片-2</vh>
+<v t="leo.20190607013627.2"><vh>投影片內容</vh></v>
+</v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180827201621.16"><vh>導入縮排程式碼</vh>
+<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
 <v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
 </v>
 <v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
@@ -148,11 +190,11 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018 期中網際簡報
+<t tx="leo.20180827201621.10">## 2019 期末協同產品設計簡報
 
 ### 虎科大機械設計工程系
 
-#### 40623119 期中投影片
+#### 40623119 期末簡報
 
 * ##### [部落格](https://mdecadp2018.github.io/site-40623119/blog/index.html)
 * ##### [倉儲](https://github.com/mdecadp2018/site-40623119)
@@ -350,7 +392,47 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181005100502.1">&lt;section data-markdown&gt;
+<t tx="leo.20181005100502.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108223323.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108223412.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108223436.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181108223454.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190607003752.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -359,11 +441,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181005100502.2">## Week-1
+<t tx="leo.20190607003752.2">### 模擬影片
 
-* 上課準備隨身碟、耳機、麥克風與筆記，並下載P37到自己的隨身碟中，與建立Onshape帳號，領取作業，學習如何編輯倉儲、部落格、投影片，並每週更新。
+&lt;iframe width="660" height="415" src="https://www.youtube.com/embed/ubL6ACAR7WU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
-<t tx="leo.20181108223323.1">&lt;section data-markdown&gt;
+<t tx="leo.20190607003947.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -372,13 +454,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108223323.2">## Week-2
+<t tx="leo.20190607003947.2">### [初步設計送球機構](https://cad.onshape.com/documents/8331b9b07a0a7ae372f70c13/w/0490dbac8618e3b64da12c3b/e/ca10ccaf65816fcde2a79990)
 
-* Onshape是一個很好用的程式，跟其他繪圖軟體不同的是隨時都會保存所繪出的草圖，不怕忘記儲存，導致做白工。剛開始畫的時候非常的不習慣，因為跟其他繪圖軟體不同。雖然指令都差不多，可是還是要花時間慢慢摸索，練習多次以後就習慣了，而且都是英文，是一個可以好好練習英文的時候。
-
-[W2](https://www.youtube.com/watch?v=usCjvQm_t6k&amp;t=11s)
+&lt;img src="https://mdecadp2018.github.io/site-40623119/images/%E7%95%B6%E5%88%9D%E9%80%81%E7%90%83.png"&gt;&lt;/img&gt;
 </t>
-<t tx="leo.20181108223412.1">&lt;section data-markdown&gt;
+<t tx="leo.20190607004602.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -387,13 +467,13 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108223412.2">## Week-3
+<t tx="leo.20190607004602.2">## Week 11-12
 
-* 這週複習 git 操作步驟，經過上學期網際網路課程學習，對 git 比較熟練了，而且用了 git checkout 來選擇自己之前所做的版本，要合併所需要的東西輸入 git merge ___ (需合併的版本)就完成合併了，學習這個以後跟組員想要合併專案的話就方便很多了。
+### 初步設計
 
-[W3](https://www.youtube.com/watch?v=AJbINO9p6VU&amp;t=45s)
+* 剛開始構想送球機怎麼繪製之後，我就畫出這一個連桿機構，目標是球進入球門後，用這一個機構把球送到軌道上，再利用軌道的斜坡讓球回到場中央，可是發現這個連桿機構要是擺在球場的左右兩邊，會影響到控制球員的桿子，於是就放棄這個連桿機構了。
 </t>
-<t tx="leo.20181108223436.1">&lt;section data-markdown&gt;
+<t tx="leo.20190607005744.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -402,16 +482,12 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108223436.2">## Week-5
+<t tx="leo.20190607005744.2">### [送球機構](https://cad.onshape.com/documents/4379b59c90b3aa52cab774e7/w/8754f7b90eaf9e4f33731814/e/4a9fe16aa71c794e8af5826b)
 
-* Onshape畫出更複雜的圖形，讓我們要思考該如何畫出草圖、材料長出、除料，還有其他的特徵畫法，更熟悉Onshape的操作技巧。
+ &lt;img src="https://mdecadp2018.github.io/site-40623119/images/%E9%80%81%E7%90%83%E6%A9%9F%E6%A7%8B.png"&gt;&lt;/img&gt;
 
-[5-1](https://youtu.be/8yrUI6TbC6M)
-[5-2](https://youtu.be/qlN478mJ2r8)
-[5-3](https://youtu.be/Xg6d0XPasWQ)
-[5-4](https://youtu.be/wBV-ANlWXkg)
-[5-5](https://youtu.be/ZrUApa93KbU)</t>
-<t tx="leo.20181108223454.1">&lt;section data-markdown&gt;
+</t>
+<t tx="leo.20190607005750.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -420,14 +496,12 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108223454.2">## Week-4
+<t tx="leo.20190607005750.2">### 模擬影片
 
-* 這週我們學習如何製作投影片、部落格、網站，並記錄下來每週的上課內容與心得，讓以後我們回頭來看自己學到了什麼。
-
-[W4](https://youtu.be/nMU9bYx0vPc)
+&lt;iframe width="660" height="415" src="https://www.youtube.com/embed/PBn6jBKGlSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
-<t tx="leo.20181108223625.1">&lt;section data-markdown&gt;
+<t tx="leo.20190607005834.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -436,18 +510,14 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108223625.2">## Week-6
+<t tx="leo.20190607005834.2">## Week 12-13
 
-* 之前做的部落格因為做壞了，使我要回推上一個版本，讓我學到了新的指令
+### 送球機構
 
-* git reflog
+* 我設計一個類似像風車的送球機構，因為這一個所佔的體積比較小，不會像當初設計的連桿機構佔很大的比例，爪子的部分是為了能夠把球給抓起來送到軌道中，繪製爪子的時候，必須確保球不會到一個角度而掉出去，能夠依照預期的方向前進。
 
-* git reset --hard ______ ---- commit id (前7碼)
-
-* git push -f   ---- 強制回退
-
-* 這樣就可以回推想要的版本，重新再製作一次自己想要的內容。</t>
-<t tx="leo.20181108223728.1">&lt;section data-markdown&gt;
+</t>
+<t tx="leo.20190607010738.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -456,18 +526,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108223728.2">## Week-7
+<t tx="leo.20190607010738.2"> &lt;img src="https://mdecadp2018.github.io/site-40623119/images/%E8%BD%89%E7%9B%A4.PNG"height="550" width="750"&gt;&lt;/img&gt;
 
-* 更改網路設定:
-控制台 ---&gt;網路和網際網路 ----&gt; 乙太網路2 --&gt; 變更介面卡選項 ---&gt;內容 ---&gt;   IPV4
-在使用DNS伺服器位置輸入:
-* 140.130.17.3 
-* 140.130.1.2
-### IPV6:
-* 2001:288:6004:17::3   系上
-* 2001:288:6004:1::2    學校
-* 2001:b000:168::1        hinet</t>
-<t tx="leo.20181108224029.1">&lt;section data-markdown&gt;
+</t>
+<t tx="leo.20190607011750.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -476,8 +538,164 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181108224029.2">## Week-8
+<t tx="leo.20190607011750.2">## [軌道與球門設計](https://cad.onshape.com/documents/4379b59c90b3aa52cab774e7/w/8754f7b90eaf9e4f33731814/e/6a15cd0263ff93507865b712)
 
-* 這週尋找自己的組員，一起同心協力完成期末的專題，讓我們彼此組員能夠互相交流知識，使我們把期末專題做到最好。</t>
+* 球門是設計成一個斜角，因為球進球門以後，到特定地點等著送球機構運輸球進入軌道當中；軌道是設計斜面，利用重力讓球自己帶動回到中場。
+
+
+</t>
+<t tx="leo.20190607011820.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190607011820.2">&lt;img src="https://mdecadp2018.github.io/site-40623119/images/%E7%90%83%E9%96%80.png"&gt;&lt;/img&gt;
+
+
+</t>
+<t tx="leo.20190607012020.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190607012020.2">&lt;img src="https://mdecadp2018.github.io/site-40623119/images/%E7%90%83%E9%96%80%E5%81%B4%E8%A6%96%E5%9C%96.png"&gt;&lt;/img&gt;
+
+
+</t>
+<t tx="leo.20190607012120.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190607012120.2">&lt;img src="https://mdecadp2018.github.io/site-40623119/images/%E8%BB%8C%E9%81%93.png"&gt;&lt;/img&gt;
+
+
+</t>
+<t tx="leo.20190607012439.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190607012439.2">## Week 14-15
+
+* 手足球球檯與送球機構設計完之後進行完整的模擬，尋找哪裡還有零組件有干涉的問題；或者軌道傳送球時，球在哪裡會卡住，並返回onshape重新更改尺寸，再匯入至V-rep再次進行模擬。
+
+
+
+</t>
+<t tx="leo.20190607012448.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190607012448.2">### 模擬影片
+
+&lt;iframe width="660" height="415" src="https://www.youtube.com/embed/CO5Xx6sN-Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20190607012847.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190607012847.2">## Week 16
+
+* 我們在模擬的時候遇到足球員彼此伸直會踢到對方跟牆壁，所以我更改了場地、桿子間隔之間距離與足球員的長度，這樣就不會撞到彼此跟牆壁了。
+
+</t>
+<t tx="leo.20190607013015.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190607013015.2">## Week 16
+
+&lt;img src="https://mdecadp2018.github.io/site-40623119/images/%E9%96%93%E8%B7%9D.png"&gt;&lt;/img&gt;
+
+</t>
+<t tx="leo.20190607013203.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190607013203.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190607013203.3">## 問題與解決
+
+### 問題
+* Q1. 球與軌道發生干涉
+
+* Q2. 球機率性卡在軌道轉角
+
+### 解決
+
+* A1. 調整軌道與桿子的高度，並修改球員的高度，確保能夠踢到球
+
+* A2. 在轉角處新增一個軌道，能夠讓球順著軌道行走
+</t>
+<t tx="leo.20190607013203.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190607013203.5">## 問題發現
+
+&lt;iframe width="660" height="415" src="https://www.youtube.com/embed/5FIVwJQlr00" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190607013627.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190607013627.2">## 解決辦法
+
+&lt;iframe width="660" height="415" src="https://www.youtube.com/embed/79VijDy_yu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 </tnodes>
 </leo_file>
