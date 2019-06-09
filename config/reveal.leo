@@ -72,14 +72,14 @@
 </v>
 </v>
 <v t="leo.20181108223436.1"><vh>W16</vh>
-<v t="leo.20190607012847.1" a="E"><vh>內容</vh>
+<v t="leo.20190607012847.1"><vh>內容</vh>
 <v t="leo.20190607012847.2"><vh>投影片內容</vh></v>
 </v>
-<v t="leo.20190607013015.1" a="E"><vh>圖片</vh>
+<v t="leo.20190607013015.1"><vh>圖片</vh>
 <v t="leo.20190607013015.2"><vh>投影片內容</vh></v>
 </v>
 </v>
-<v t="leo.20190607013203.1" a="E"><vh>問題與解決</vh>
+<v t="leo.20190607013203.1"><vh>問題與解決</vh>
 <v t="leo.20190607013203.2"><vh>內容</vh>
 <v t="leo.20190607013203.3"><vh>投影片內容</vh></v>
 </v>
@@ -196,9 +196,10 @@ vertical: body pane on the botton</t>
 
 #### 40623119 期末簡報
 
-* ##### [部落格](https://mdecadp2018.github.io/site-40623119/blog/index.html)
-* ##### [倉儲](https://github.com/mdecadp2018/site-40623119)
-* ##### [網站](https://mdecadp2018.github.io/site-40623119/content/index.html)
+* ##### [小組倉儲](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g1)
+* ##### [小組網站](https://mdekmol.github.io/cd2019a-task1-2019cda_t1_g1/content/index.html)
+* ##### [個人倉儲](https://github.com/mdecadp2018/site-40623119)
+* ##### [個人網站](https://mdecadp2018.github.io/site-40623119/content/index.html)
 
 
 </t>
